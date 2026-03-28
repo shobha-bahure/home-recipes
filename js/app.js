@@ -10,8 +10,8 @@ const CONFIG = {
   name_mr:     'शोभा ताईचे स्वयंपाकघर',
   author_en:   'The Recipe Collection of Shobha Bahure',
   author_mr:   'शोभा बहुरे यांचा रेसिपी संग्रह',
-  footer_en:   "Shobha Bahure\u2019s recipes, preserved with love \u00b7 62 recipes",
-  footer_mr:   '\u0936\u094b\u092d\u093e \u092c\u0939\u0941\u0930\u0947 \u092f\u093e\u0902\u091a\u094d\u092f\u093e \u0930\u0947\u0938\u093f\u092a\u0940, \u092a\u094d\u0930\u0947\u092e\u093e\u0928\u0947 \u091c\u092a\u0932\u0947\u0932\u094d\u092f\u093e \u00b7 \u0036\u0032 \u0930\u0947\u0938\u093f\u092a\u0940',
+  footer_en:   "Shobha Bahure\u2019s recipes, preserved with love \u00b7 74 recipes",
+  footer_mr:   '\u0936\u094b\u092d\u093e \u092c\u0939\u0941\u0930\u0947 \u092f\u093e\u0902\u091a\u094d\u092f\u093e \u0930\u0947\u0938\u093f\u092a\u0940, \u092a\u094d\u0930\u0947\u092e\u093e\u0928\u0947 \u091c\u092a\u0932\u0947\u0932\u094d\u092f\u093e \u00b7 \u0037\u0034 \u0930\u0947\u0938\u093f\u092a\u0940',
 };
 
 const CATEGORIES = [
@@ -23,6 +23,8 @@ const CATEGORIES = [
   { id: 'breads',       icon: '\uD83E\uDED3', en: 'Breads & Rotis',             mr: '\u092d\u093e\u0915\u0930\u0940 \u0935 \u092a\u094b\u0933\u0940',                match: 'Breads & Rotis' },
   { id: 'south-indian', icon: '\uD83C\uDF5B', en: 'South Indian Specialties',  mr: '\u0926\u0915\u094d\u0937\u093f\u0923 \u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093f\u0936\u0947\u0937',         match: 'South Indian Specialties' },
   { id: 'health',       icon: '\uD83C\uDF3E', en: 'Health Mixes & Diet Plans', mr: '\u0906\u0930\u094b\u0917\u094d\u092f\u0926\u093e\u092f\u0940 \u092e\u093f\u0936\u094d\u0930\u0923\u0947 \u0935 \u0906\u0939\u093e\u0930', match: 'Health Mixes & Diet Plans' },
+  { id: 'sweets',       icon: '\uD83C\uDF70', en: 'Sweets & Desserts',         mr: '\u0917\u094b\u0921 \u092a\u0926\u093e\u0930\u094d\u0925',                  match: 'Sweets & Desserts' },
+  { id: 'curries',      icon: '\uD83C\uDF72', en: 'Curries & Gravies',         mr: '\u092d\u093e\u091c\u094d\u092f\u093e \u0935 \u0917\u094d\u0930\u0947\u0935\u094d\u0939\u0940',               match: 'Curries & Gravies' },
 ];
 
 // ---- STATE ------------------------------------------------

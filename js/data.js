@@ -5320,5 +5320,888 @@ const RECIPES = [
     "notes_mr": "हे एक घट्ट स्प्रेड आहे (द्रव चटणी नाही) जे डोशावर सर्व करण्यापूर्वी लावले जाते. डोसा टोमॅटो चटणीपेक्षा वेगळे (#024).",
     "story_en": "[STORY: add family memory here]",
     "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "063",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.47.37 PM.jpeg"
+    ],
+    "title_en": "Palak Pulao",
+    "title_mr": "पालक पुलाव",
+    "category": "Rice Dishes",
+    "serves": "",
+    "ingredients": [
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Fennel seeds",
+        "item_mr": "बडीशेप",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Bay leaf",
+        "item_mr": "तमालपत्र",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Cardamom",
+        "item_mr": "वेलची",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Cloves",
+        "item_mr": "लवंग",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Peppercorns",
+        "item_mr": "मिरीचे दाणे",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Onion",
+        "item_mr": "कांदा",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Carrots (grated)",
+        "item_mr": "किसलेली गाजरे",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Spinach",
+        "item_mr": "पालक",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Peas",
+        "item_mr": "वाटाणे",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Rice",
+        "item_mr": "तांदूळ",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Red chilli powder",
+        "item_mr": "लाल मिरची पावडर",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      }
+    ],
+    "method_en": "Heat oil. Add fennel seeds, bay leaf, cardamom, cloves and peppercorns. Add onion and sauté for 3 minutes. Add grated carrots and spinach, cook for 3 minutes. Add peas. Add washed rice, salt and red chilli powder. Add water in ratio 1:2 (rice:water). Cook until rice is done.",
+    "method_mr": "तेल गरम करा. बडीशेप, तमालपत्र, वेलची, लवंग, मिरीचे दाणे घाला. कांदा घालून ३ मिनिटे परतवा. किसलेली गाजरे आणि पालक घालून ३ मिनिटे शिजवा. वाटाणे घाला. धुतलेले तांदूळ, मीठ आणि लाल मिरची पावडर घाला. १:२ प्रमाणात पाणी घाला. भात शिजेपर्यंत ठेवा.",
+    "notes_en": "Rice to water ratio 1:2. A simple and nutritious pulao with the goodness of spinach.",
+    "notes_mr": "तांदूळ ते पाणी प्रमाण १:२. पालकाच्या पौष्टिकतेसह साधा आणि आरोग्यदायी पुलाव.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "064",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.54.12 PM.jpeg"
+    ],
+    "title_en": "Adai Dosa Instant",
+    "title_mr": "अडई डोसा (इन्स्टंट)",
+    "category": "Batters & Dosas",
+    "serves": "",
+    "ingredients": [
+      {
+        "item_en": "Chana dal + Toor dal + Urad dal combined",
+        "item_mr": "चणाडाळ + तूरडाळ + उडदाची डाळ एकत्र",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Urad dal (from above, only 2 tbsp)",
+        "item_mr": "उडदाची डाळ (वरीलपैकी फक्त २ चमचे)",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Chana + Toor (1:1 ratio, remaining)",
+        "item_mr": "चणाडाळ + तूरडाळ (१:१ प्रमाण, उरलेले)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Boiled rice",
+        "item_mr": "उकडलेले तांदूळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Dry red chilli",
+        "item_mr": "सुकी लाल मिरची",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Hing (asafoetida)",
+        "item_mr": "हिंग",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Coconut",
+        "item_mr": "नारळ",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      }
+    ],
+    "method_en": "Soak all dals together for 1 hour. Coarse grind all ingredients with dry red chilli and hing. Add boiled rice 1 cup. Add coconut and salt. Optional: add cabbage or onion to batter. Make dosas on a hot griddle.",
+    "method_mr": "सर्व डाळी एकत्र १ तास भिजवा. सुकी लाल मिरची आणि हिंगसह सर्व जाडसर वाटा. उकडलेले तांदूळ १ कप घाला. नारळ आणि मीठ घाला. ऐच्छिक: पिठात कोबी किंवा कांदा घाला. गरम तव्यावर डोसे बनवा.",
+    "notes_en": "Instant version of Adai dosa. Urad proportion is just 2 tbsp — less than regular adai. Coarse grinding gives the characteristic thick texture. Optional: cabbage, onion.",
+    "notes_mr": "अडई डोसाची इन्स्टंट आवृत्ती. उडदाचे प्रमाण फक्त २ चमचे. जाडसर दळण्याने वैशिष्ट्यपूर्ण पोत येतो. ऐच्छिक: कोबी, कांदा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "065",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.54.18 PM.jpeg"
+    ],
+    "title_en": "Haldi Achar (Turmeric Pickle)",
+    "title_mr": "हळद लोणचे",
+    "category": "Chutneys & Condiments",
+    "serves": "",
+    "ingredients": [
+      {
+        "item_en": "Fresh turmeric (haldi)",
+        "item_mr": "ताजी हळद",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Ginger (haldi:ginger ratio 1:4)",
+        "item_mr": "आले (हळद:आले प्रमाण १:४)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Lemon juice",
+        "item_mr": "लिंबाचा रस",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Fennel seeds (roasted)",
+        "item_mr": "भाजलेली बडीशेप",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Mustard seeds (roasted)",
+        "item_mr": "भाजलेल्या मोहरी",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Hing (asafoetida)",
+        "item_mr": "हिंग",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Roasted jeera (cumin)",
+        "item_mr": "भाजलेले जिरे",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Methindana / fenugreek seeds (warmed, not roasted)",
+        "item_mr": "मेथीचे दाणे (गरम केलेले, भाजलेले नाही)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Red chilli powder",
+        "item_mr": "लाल मिरची पावडर",
+        "quantity": "very little",
+        "unit": ""
+      },
+      {
+        "item_en": "Jaggery",
+        "item_mr": "गूळ",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "method_en": "Wash turmeric and dry for 24 hours to avoid fungus once cooked. Use haldi to ginger ratio 1:4. Mix all ingredients — lemon juice, salt, roasted fennel seeds, roasted mustard seeds, hing, roasted jeera, methindana (warmed not roasted), very little chilli powder, and jaggery. Mix well and store.",
+    "method_mr": "हळद धुवून शिजवल्यानंतर बुरशी टाळण्यासाठी २४ तास वाळवा. हळद ते आले प्रमाण १:४. लिंबाचा रस, मीठ, भाजलेली बडीशेप, भाजलेल्या मोहरी, हिंग, भाजलेले जिरे, मेथीचे दाणे (गरम केलेले, भाजलेले नाही), थोडी लाल मिरची पावडर आणि गूळ एकत्र मिसळा. चांगले मिसळून साठवा.",
+    "notes_en": "Haldi to ginger ratio is 1:4. Fenugreek seeds should be warmed but not roasted. Dry turmeric well for 24 hours before pickling to prevent fungus.",
+    "notes_mr": "हळद ते आले प्रमाण १:४. मेथीचे दाणे उबदार करावेत पण भाजू नयेत. बुरशी टाळण्यासाठी लोणच्यापूर्वी हळद २४ तास चांगली वाळवा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "066",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.48.02 PM.jpeg"
+    ],
+    "title_en": "Thalipeeth Flour Mix (40g portions)",
+    "title_mr": "थालीपीठ पीठ मिश्रण (४० ग्रॅम भाग)",
+    "category": "Health Mixes & Diet Plans",
+    "serves": "40g per portion",
+    "ingredients": [
+      {
+        "item_en": "Roasted rice",
+        "item_mr": "भाजलेले तांदूळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Moong dal",
+        "item_mr": "मुगाची डाळ",
+        "quantity": "1½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Red lentil (masoor)",
+        "item_mr": "मसूरची डाळ",
+        "quantity": "1½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Jowar (sorghum)",
+        "item_mr": "ज्वारी",
+        "quantity": "1¾",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Barley (as per choice)",
+        "item_mr": "जव (इच्छेनुसार)",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Coriander seed powder",
+        "item_mr": "धणे पावडर",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Cumin seed powder",
+        "item_mr": "जिरे पावडर",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "Dry roast all grains separately. Grind together into a coarse flour. Store in airtight container. Use 40g per portion to make thalipeeth.",
+    "method_mr": "सर्व धान्ये वेगळे कोरडे भाजा. एकत्र जाडसर पीठ दळा. हवाबंद डब्यात साठवा. थालीपीठासाठी प्रत्येक वेळी ४० ग्रॅम वापरा.",
+    "notes_en": "A nutritious multi-grain thalipeeth mix. Barley quantity can be adjusted as per choice.",
+    "notes_mr": "पौष्टिक बहु-धान्य थालीपीठ मिश्रण. जवाचे प्रमाण इच्छेनुसार बदलता येते.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "067",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.40.41 PM.jpeg"
+    ],
+    "title_en": "Date & Walnut Cake",
+    "title_mr": "खजूर आणि अक्रोड केक",
+    "category": "Sweets & Desserts",
+    "serves": "",
+    "ingredients": [
+      {
+        "item_en": "Chopped walnuts",
+        "item_mr": "कापलेले अक्रोड",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Chopped pitted dates",
+        "item_mr": "बी काढलेले कापलेले खजूर",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Brown sugar (not raw sugar)",
+        "item_mr": "ब्राऊन साखर (कच्ची साखर नाही)",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Vanilla essence",
+        "item_mr": "व्हॅनिला एसेन्स",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Melted butter",
+        "item_mr": "वितळलेले लोणी",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "item_en": "Self-raising flour",
+        "item_mr": "सेल्फ-रेझिंग मैदा",
+        "quantity": "2",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Eggs (beaten)",
+        "item_mr": "अंडी (फेटलेली)",
+        "quantity": "2",
+        "unit": ""
+      }
+    ],
+    "method_en": "Mix the dates and walnuts in a bowl. Add sugar, vanilla and butter. Add 2 beaten eggs. Add flour gradually, not mixing it hard. Line baking tray with baking paper. Press mixture into the tray evenly. Bake at 180°C for 20 minutes.",
+    "method_mr": "खजूर आणि अक्रोड एका भांड्यात मिसळा. साखर, व्हॅनिला आणि लोणी घाला. २ फेटलेली अंडी घाला. हळूहळू पीठ घाला, जास्त मिसळू नका. बेकिंग ट्रेला बेकिंग पेपर लावा. मिश्रण ट्रेमध्ये समान रीतीने दाबा. १८०°C वर २० मिनिटे बेक करा.",
+    "notes_en": "Do not overmix after adding flour. Can be sliced into bars once cooled.",
+    "notes_mr": "पीठ घातल्यानंतर जास्त मिसळू नका. थंड झाल्यावर बारमध्ये कापता येतो.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "068",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.40.47 PM.jpeg"
+    ],
+    "title_en": "The Best Chocolate Chip Cookies",
+    "title_mr": "चॉकलेट चिप कुकीज",
+    "category": "Sweets & Desserts",
+    "serves": "Makes approx 70",
+    "ingredients": [
+      {
+        "item_en": "Plain flour",
+        "item_mr": "मैदा",
+        "quantity": "1¾",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Baking soda",
+        "item_mr": "बेकिंग सोडा",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Butter (room temperature)",
+        "item_mr": "लोणी (खोलीच्या तपमानावर)",
+        "quantity": "¾",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Brown sugar",
+        "item_mr": "ब्राऊन साखर",
+        "quantity": "¾",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Caster (superfine) sugar",
+        "item_mr": "कास्टर साखर",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Vanilla extract",
+        "item_mr": "व्हॅनिला अर्क",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Large eggs",
+        "item_mr": "मोठी अंडी",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "item_en": "Good quality chocolate chips",
+        "item_mr": "चॉकलेट चिप्स",
+        "quantity": "1",
+        "unit": "cup"
+      }
+    ],
+    "method_en": "Preheat oven to 200°C. Line a baking tray with baking paper. Sift flour and baking soda into a bowl. In another bowl beat butter, brown sugar and caster sugar with electric mixer until combined. Add eggs one at a time, beat until well mixed. Add dry ingredients and chocolate chips and mix with a wooden spoon to combine. Drop heaped tablespoonfuls onto prepared baking tray about 5cm apart. Bake for 8-10 minutes until edges start to go golden brown. If baking 2 trays, rotate halfway through for even cooking. Cool on tray 5 minutes then transfer to wire rack. Store in airtight container or freeze.",
+    "method_mr": "ओव्हन २००°C वर पूर्वतयार करा. बेकिंग ट्रेला बेकिंग पेपर लावा. मैदा आणि बेकिंग सोडा चाळा. दुसऱ्या भांड्यात लोणी, ब्राऊन साखर आणि कास्टर साखर इलेक्ट्रिक मिक्सरने फेटा. एक एक अंडे घालून फेटा. कोरडे साहित्य आणि चॉकलेट चिप्स घालून मिसळा. ट्रेवर ५ सेमी अंतरावर मिश्रण ठेवा. ८-१० मिनिटे बेक करा. हवाबंद डब्यात साठवा.",
+    "notes_en": "Can be frozen. For a chewier cookie, use more brown sugar. Tip from the recipe: making the cookies double the mixture and baking 2 trays at once saves time.",
+    "notes_mr": "गोठवता येतात. अधिक चविष्ट कुकीसाठी जास्त ब्राऊन साखर वापरा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "069",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.41.01 PM.jpeg"
+    ],
+    "title_en": "Gingerbread Men",
+    "title_mr": "जिंजरब्रेड मेन",
+    "category": "Sweets & Desserts",
+    "serves": "",
+    "ingredients": [
+      {
+        "item_en": "Melted butter",
+        "item_mr": "वितळलेले लोणी",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Brown sugar",
+        "item_mr": "ब्राऊन साखर",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Golden syrup or treacle",
+        "item_mr": "गोल्डन सिरप",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Egg",
+        "item_mr": "अंडे",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Plain flour",
+        "item_mr": "मैदा",
+        "quantity": "270",
+        "unit": "g"
+      },
+      {
+        "item_en": "Bicarbonate of soda",
+        "item_mr": "बेकिंग सोडा",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Ground ginger",
+        "item_mr": "आले पावडर",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Mixed spice or cinnamon",
+        "item_mr": "मिश्र मसाला किंवा दालचिनी",
+        "quantity": "",
+        "unit": ""
+      }
+    ],
+    "method_en": "Preheat oven to 180°C. Line baking trays with baking paper. Beat butter and sugar together. Add golden syrup and egg and mix. Add flour, bicarbonate of soda, ground ginger and mixed spice and combine into a dough. Roll out dough and cut into gingerbread men shapes. Place on prepared trays. Bake at 180°C until golden. Cool on tray then transfer to wire rack. Decorate with icing as desired.",
+    "method_mr": "ओव्हन १८०°C वर पूर्वतयार करा. बेकिंग ट्रेला कागद लावा. लोणी आणि साखर फेटा. गोल्डन सिरप आणि अंडे घाला. मैदा, बेकिंग सोडा, आले पावडर आणि मिश्र मसाला घालून पीठ तयार करा. पीठ लाटून जिंजरब्रेड मेनच्या आकारात कापा. ट्रेवर ठेवा. सोनेरी रंग येईपर्यंत बेक करा. थंड करून इच्छेनुसार सजवा.",
+    "notes_en": "Some quantities were not fully visible in the original photo. Bake at 180°C until golden brown.",
+    "notes_mr": "मूळ फोटोमध्ये काही प्रमाण पूर्णपणे दिसत नव्हते. सोनेरी तपकिरी रंग येईपर्यंत बेक करा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "070",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.44.46 PM.jpeg"
+    ],
+    "title_en": "Basic Butter Cake",
+    "title_mr": "बेसिक बटर केक",
+    "category": "Sweets & Desserts",
+    "serves": "Serves 12",
+    "ingredients": [
+      {
+        "item_en": "Butter (softened)",
+        "item_mr": "लोणी (मऊ केलेले)",
+        "quantity": "125",
+        "unit": "g"
+      },
+      {
+        "item_en": "Caster (superfine) sugar",
+        "item_mr": "कास्टर साखर",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Vanilla bean paste",
+        "item_mr": "व्हॅनिला बीन पेस्ट",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Eggs",
+        "item_mr": "अंडी",
+        "quantity": "3",
+        "unit": ""
+      },
+      {
+        "item_en": "Self-raising flour",
+        "item_mr": "सेल्फ-रेझिंग मैदा",
+        "quantity": "2",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Milk",
+        "item_mr": "दूध",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Icing (confectioners') sugar",
+        "item_mr": "आयसिंग साखर",
+        "quantity": "",
+        "unit": "for icing"
+      }
+    ],
+    "method_en": "Preheat oven to 180°C/350°F. Grease a deep 20cm (8in) round cake pan, line base and sides with baking paper ensuring paper extends above sides. Beat butter, vanilla and sugar with electric mixer until light and fluffy. Add eggs one at a time, beating well after each addition. Transfer to large bowl, fold in combined flour and milk in two batches. Bake for 1 hour or until skewer inserted comes out clean. Leave in pan 5 minutes before turning onto wire rack. Make vanilla bean icing, spread over cake allowing to drip down sides.",
+    "method_mr": "ओव्हन १८०°C वर गरम करा. २० सेमी गोल केक पॅनला बेकिंग पेपर लावा. लोणी, व्हॅनिला आणि साखर इलेक्ट्रिक मिक्सरने फेटा. एक एक अंडे घालत फेटत राहा. पीठ आणि दूध दोन भागांत घालून मिसळा. १ तास बेक करा. ५ मिनिटे ठेवून वायर रॅकवर काढा. आयसिंग तयार करून केकवर लावा.",
+    "notes_en": "Prep + cook time 1 hour 30 minutes. Classic butter cake — a family favourite base recipe.",
+    "notes_mr": "तयारी + स्वयंपाक वेळ १ तास ३० मिनिटे. क्लासिक बटर केक.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "071",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.49.59 PM.jpeg"
+    ],
+    "title_en": "Vanilla Cupcakes",
+    "title_mr": "व्हॅनिला कपकेक",
+    "category": "Sweets & Desserts",
+    "serves": "Makes 24",
+    "ingredients": [
+      {
+        "item_en": "Butter (softened)",
+        "item_mr": "लोणी (मऊ केलेले)",
+        "quantity": "125",
+        "unit": "g"
+      },
+      {
+        "item_en": "Vanilla extract",
+        "item_mr": "व्हॅनिला अर्क",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Caster (superfine) sugar",
+        "item_mr": "कास्टर साखर",
+        "quantity": "⅔",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Eggs",
+        "item_mr": "अंडी",
+        "quantity": "3",
+        "unit": ""
+      },
+      {
+        "item_en": "Self-raising flour",
+        "item_mr": "सेल्फ-रेझिंग मैदा",
+        "quantity": "2",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Milk",
+        "item_mr": "दूध",
+        "quantity": "¼",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Icing (confectioners') sugar",
+        "item_mr": "आयसिंग साखर",
+        "quantity": "",
+        "unit": "to dust"
+      }
+    ],
+    "method_en": "Preheat oven to 180°C/350°F. Line 12-hole muffin pan with paper cases. Beat all ingredients in a medium bowl with electric mixer on low speed until combined. Increase speed to medium and beat until mixture has changed to a paler colour. Spoon mixture into cases. Bake for 30 minutes or until a skewer inserted into the centre comes out clean. Leave in pan for 5 minutes before transferring to a wire rack to cool. Serve dusted with icing sugar.",
+    "method_mr": "ओव्हन १८०°C वर गरम करा. मफिन पॅनला कागदी केसेस लावा. सर्व साहित्य इलेक्ट्रिक मिक्सरने प्रथम कमी वेगाने, नंतर मध्यम वेगाने फेटा. केसेसमध्ये मिश्रण ओता. ३० मिनिटे बेक करा. ५ मिनिटे ठेवून वायर रॅकवर काढा. आयसिंग साखर भुरभुरून सर्व करा.",
+    "notes_en": "Prep + cook time 40 minutes. Makes 24 cupcakes. Serve dusted with icing sugar.",
+    "notes_mr": "तयारी + स्वयंपाक वेळ ४० मिनिटे. २४ कपकेक बनतात.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "072",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.55.09 PM.jpeg"
+    ],
+    "title_en": "Pistachio Ice Cream (4 ingredients)",
+    "title_mr": "पिस्ता आइस्क्रीम (४ साहित्य)",
+    "category": "Sweets & Desserts",
+    "serves": "",
+    "ingredients": [
+      {
+        "item_en": "Thickened cream",
+        "item_mr": "जड क्रीम",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Condensed milk",
+        "item_mr": "कंडेन्स्ड मिल्क",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Coarsely ground pistachios",
+        "item_mr": "जाडसर वाटलेले पिस्ते",
+        "quantity": "2½",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Pistachio essence",
+        "item_mr": "पिस्ता एसेन्स",
+        "quantity": "½",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "Beat the thickened cream with electric beater until whipped consistency. Add condensed milk and beat for another 1 minute. Add the ground pistachios and essence and mix well. Pour mixture into an airtight container and freeze overnight or for 8 hours. Ice cream is ready to eat.",
+    "method_mr": "जड क्रीम इलेक्ट्रिक बीटरने व्हिप होईपर्यंत फेटा. कंडेन्स्ड मिल्क घालून आणखी १ मिनिट फेटा. वाटलेले पिस्ते आणि एसेन्स घालून मिसळा. हवाबंद डब्यात घालून रात्रभर किंवा ८ तास फ्रीजरमध्ये ठेवा. पिस्ता आइस्क्रीम तयार.",
+    "notes_en": "Only 4 ingredients. No ice cream maker needed. Freeze overnight for best results.",
+    "notes_mr": "फक्त ४ साहित्य. आइस्क्रीम मेकरची गरज नाही. उत्तम परिणामासाठी रात्रभर गोठवा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "073",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.42.51 PM.jpeg",
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.42.52 PM.jpeg"
+    ],
+    "title_en": "Paneer Tikka Sizzler with Yellow Rice",
+    "title_mr": "पनीर टिक्का सिझलर पिवळ्या भातासह",
+    "category": "Curries & Gravies",
+    "serves": "Makes 2 sizzlers",
+    "ingredients": [
+      {
+        "item_en": "Paneer (cottage cheese), cut into 50mm cubes",
+        "item_mr": "पनीर, ५० मिमी चौकोनात कापलेले",
+        "quantity": "1½",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Onions, cut into thick wedges",
+        "item_mr": "कांदा, जाड काप केलेला",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Capsicum, cut into 50mm pieces",
+        "item_mr": "शिमला मिरची, ५० मिमी तुकडे",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Thick curds",
+        "item_mr": "घट्ट दही",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Bengal gram flour (besan)",
+        "item_mr": "बेसन",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Ginger paste",
+        "item_mr": "आले पेस्ट",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Garlic paste",
+        "item_mr": "लसूण पेस्ट",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Kasuri methi (dried fenugreek leaves)",
+        "item_mr": "कसुरी मेथी",
+        "quantity": "1½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Garam masala",
+        "item_mr": "गरम मसाला",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Coriander powder",
+        "item_mr": "धणे पावडर",
+        "quantity": "½",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Mustard oil",
+        "item_mr": "मोहरीचे तेल",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Long-grained rice (for yellow rice)",
+        "item_mr": "लांब तांदूळ (पिवळ्या भातासाठी)",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Cumin seeds",
+        "item_mr": "जिरे",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Cinnamon stick (25mm)",
+        "item_mr": "दालचिनी काडी",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Clove",
+        "item_mr": "लवंग",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Bay leaf",
+        "item_mr": "तमालपत्र",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Turmeric powder",
+        "item_mr": "हळद पावडर",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "3",
+        "unit": "tbsp"
+      }
+    ],
+    "method_en": "For paneer tikkas: Combine curds, besan, ginger paste, garlic paste, kasuri methi, garam masala, coriander powder, salt and 1 tbsp mustard oil to make marinade. Add paneer, onions and capsicum, keep aside for 10-15 minutes. Arrange on skewer sticks. Heat remaining mustard oil on non-stick tava and sauté tikkas on all sides for 4-5 minutes until lightly browned. For yellow rice: Heat oil, add cumin seeds, cinnamon, clove, bay leaf. Add rice and turmeric, salt. Add water (1:2 ratio) and cook until done. Serve tikkas on sizzler plate over yellow rice.",
+    "method_mr": "पनीर टिक्क्यासाठी: दही, बेसन, आले पेस्ट, लसूण पेस्ट, कसुरी मेथी, गरम मसाला, धणे पावडर, मीठ आणि मोहरीचे तेल एकत्र करून मॅरिनेड तयार करा. पनीर, कांदा आणि शिमला मिरची घालून १०-१५ मिनिटे ठेवा. सळईंवर लावून मोहरीच्या तेलात ४-५ मिनिटे सर्व बाजूंनी शेका. पिवळ्या भातासाठी: तेलात जिरे, दालचिनी, लवंग, तमालपत्र घाला. तांदूळ, हळद, मीठ घाला. १:२ पाणी घालून शिजवा. सिझलर प्लेटवर टिक्के मांडा.",
+    "notes_en": "Preparation time 15 minutes. Cooking time 60 minutes.",
+    "notes_mr": "तयारीचा वेळ १५ मिनिटे. स्वयंपाकाचा वेळ ६० मिनिटे.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "074",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.48.40 PM.jpeg"
+    ],
+    "title_en": "Ridge Gourd Curry (Dodka / Tori)",
+    "title_mr": "दोडका / तोरी भाजी",
+    "category": "Curries & Gravies",
+    "serves": "",
+    "ingredients": [
+      {
+        "item_en": "Ridge gourd (peeled and cut)",
+        "item_mr": "दोडका (सोललेला आणि कापलेला)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Onion (chopped)",
+        "item_mr": "कांदा (चिरलेला)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Green chilli",
+        "item_mr": "हिरवी मिरची",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "item_en": "Roasted groundnut",
+        "item_mr": "भाजलेले शेंगदाणे",
+        "quantity": "¼",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Garlic cloves",
+        "item_mr": "लसणाच्या पाकळ्या",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Cumin seeds",
+        "item_mr": "जिरे",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Cumin & mustard seeds (for tempering)",
+        "item_mr": "जिरे आणि मोहरी (फोडणीसाठी)",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Turmeric powder",
+        "item_mr": "हळद पावडर",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Red chilli powder",
+        "item_mr": "लाल मिरची पावडर",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Water",
+        "item_mr": "पाणी",
+        "quantity": "1½",
+        "unit": "cup"
+      }
+    ],
+    "method_en": "Grind green chilli, roasted groundnut, garlic and cumin seeds into a paste (no coriander leaves). Heat oil in pan. Add cumin and mustard seeds for tempering. Add onion and sauté until little brown. Add cut ridge gourd and stir. Add turmeric powder and red chilli powder. Add the ground paste and mix well. Add salt to taste and 1½ cup water. Cook until gourd is done (boiled).",
+    "method_mr": "हिरवी मिरची, भाजलेले शेंगदाणे, लसूण आणि जिरे वाटून पेस्ट करा. तेल गरम करा. जिरे आणि मोहरीची फोडणी द्या. कांदा थोडा तपकिरी होईपर्यंत परतवा. कापलेला दोडका घालून ढवळा. हळद पावडर आणि लाल मिरची पावडर घाला. वाटलेली पेस्ट घालून मिसळा. मीठ आणि दीड कप पाणी घाला. दोडका शिजेपर्यंत ठेवा.",
+    "notes_en": "Recipe #32 from Shobha Tai's notebook. The groundnut paste gives this curry a rich, nutty flavour.",
+    "notes_mr": "शोभा ताईच्या वहीतील रेसिपी #३२. शेंगदाण्याची पेस्ट या भाजीला समृद्ध, पौष्टिक चव देते.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
   }
 ];
