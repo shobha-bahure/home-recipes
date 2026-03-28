@@ -10,8 +10,8 @@ const CONFIG = {
   name_mr:     'शोभा ताईचे स्वयंपाकघर',
   author_en:   'The Recipe Collection of Shobha Bahure',
   author_mr:   'शोभा बहुरे यांचा रेसिपी संग्रह',
-  footer_en:   "Shobha Bahure\u2019s recipes, preserved with love \u00b7 74 recipes",
-  footer_mr:   '\u0936\u094b\u092d\u093e \u092c\u0939\u0941\u0930\u0947 \u092f\u093e\u0902\u091a\u094d\u092f\u093e \u0930\u0947\u0938\u093f\u092a\u0940, \u092a\u094d\u0930\u0947\u092e\u093e\u0928\u0947 \u091c\u092a\u0932\u0947\u0932\u094d\u092f\u093e \u00b7 \u0037\u0034 \u0930\u0947\u0938\u093f\u092a\u0940',
+  footer_en:   "Shobha Bahure\u2019s recipes, preserved with love \u00b7 76 recipes",
+  footer_mr:   '\u0936\u094b\u092d\u093e \u092c\u0939\u0941\u0930\u0947 \u092f\u093e\u0902\u091a\u094d\u092f\u093e \u0930\u0947\u0938\u093f\u092a\u0940, \u092a\u094d\u0930\u0947\u092e\u093e\u0928\u0947 \u091c\u092a\u0932\u0947\u0932\u094d\u092f\u093e \u00b7 \u0037\u0036 \u0930\u0947\u0938\u093f\u092a\u0940',
 };
 
 const CATEGORIES = [
@@ -25,6 +25,27 @@ const CATEGORIES = [
   { id: 'health',       icon: '\uD83C\uDF3E', en: 'Health Mixes & Diet Plans', mr: '\u0906\u0930\u094b\u0917\u094d\u092f\u0926\u093e\u092f\u0940 \u092e\u093f\u0936\u094d\u0930\u0923\u0947 \u0935 \u0906\u0939\u093e\u0930', match: 'Health Mixes & Diet Plans' },
   { id: 'sweets',       icon: '\uD83C\uDF70', en: 'Sweets & Desserts',         mr: '\u0917\u094b\u0921 \u092a\u0926\u093e\u0930\u094d\u0925',                  match: 'Sweets & Desserts' },
   { id: 'curries',      icon: '\uD83C\uDF72', en: 'Curries & Gravies',         mr: '\u092d\u093e\u091c\u094d\u092f\u093e \u0935 \u0917\u094d\u0930\u0947\u0935\u094d\u0939\u0940',               match: 'Curries & Gravies' },
+];
+
+// ---- TAGS -------------------------------------------------
+// Add recipe IDs here to tag them. No JSON files need changing.
+const TAGS = [
+  {
+    id: 'breakfast', icon: '\uD83C\uDF05', en: 'Breakfast', mr: '\u0928\u093e\u0937\u094d\u091f\u093e',
+    ids: ['015','050','051','052','053','054','055','056','061','064','058','059','060','066']
+  },
+  {
+    id: 'dinner', icon: '\uD83C\uDF19', en: 'Dinner', mr: '\u0930\u093e\u0924\u094d\u0930\u0940\u091a\u0947 \u091c\u0947\u0935\u0923',
+    ids: ['038','039','040','041','042','043','044','045','046','047','057','063','073','074','075','076']
+  },
+  {
+    id: 'kids', icon: '\u2B50', en: 'Kids Favourites', mr: '\u092e\u0941\u0932\u093e\u0902\u091a\u0947 \u0906\u0935\u0921\u0924\u0947',
+    ids: ['011','019','067','068','069','070','071','072']
+  },
+  {
+    id: 'easy', icon: '\u26A1', en: 'Quick & Easy', mr: '\u0938\u094b\u092a\u0947 \u0935 \u091c\u0932\u0926',
+    ids: ['057','064','065','072','014','017','020','021','023']
+  },
 ];
 
 // ---- STATE ------------------------------------------------
@@ -103,6 +124,7 @@ function route() {
   const h = window.location.hash;
   if      (h.startsWith('#recipe/'))   renderRecipe(h.slice(8));
   else if (h.startsWith('#category/')) renderCategory(h.slice(10));
+  else if (h.startsWith('#tag/'))      renderTag(h.slice(5));
   else if (h.startsWith('#search/'))   renderSearch(decodeURIComponent(h.slice(8)));
   else                                  renderHome();
 }
@@ -119,12 +141,20 @@ function renderHome() {
       '</a>';
   }).join('');
 
+  const tagLabel = e ? 'Browse by' : '\u092b\u093f\u0932\u094d\u091f\u0930';
+  const tags = TAGS.map(t =>
+    '<a href="#tag/' + t.id + '" class="tag-pill">' +
+      t.icon + ' ' + esc(e ? t.en : t.mr) +
+    '</a>'
+  ).join('');
+
   setMain(
     '<div class="home">' +
       '<div class="hero">' +
         '<h1>' + esc(CONFIG[e ? 'name_en' : 'name_mr']) + '</h1>' +
         '<p>' + esc(CONFIG[e ? 'author_en' : 'author_mr']) + '</p>' +
       '</div>' +
+      '<div class="tag-row"><span class="tag-label">' + tagLabel + ':</span>' + tags + '</div>' +
       '<div class="cat-grid">' + cats + '</div>' +
     '</div>'
   );
@@ -145,6 +175,29 @@ function renderCategory(catId) {
         { label: e ? cat.en : cat.mr }
       ]) +
       '<h2 class="page-title">' + cat.icon + ' ' + esc(e ? cat.en : cat.mr) + '</h2>' +
+      '<div class="recipe-grid">' + cards + '</div>' +
+    '</div>'
+  );
+}
+
+// ---- TAG --------------------------------------------------
+function renderTag(tagId) {
+  const tag = TAGS.find(t => t.id === tagId);
+  if (!tag) return renderHome();
+  const e = lang === 'en';
+  const recipes = RECIPES.filter(r => tag.ids.includes(r.id));
+  const cards = recipes.map(r => {
+    const cat = CATEGORIES.find(c => c.match === r.category);
+    return recipeCard(r, e, cat);
+  }).join('');
+
+  setMain(
+    '<div class="page">' +
+      breadcrumb([
+        { href: '#', label: e ? 'Home' : '\u092e\u0941\u0916\u092a\u0943\u0937\u094d\u0920' },
+        { label: tag.icon + ' ' + (e ? tag.en : tag.mr) }
+      ]) +
+      '<h2 class="page-title">' + tag.icon + ' ' + esc(e ? tag.en : tag.mr) + '</h2>' +
       '<div class="recipe-grid">' + cards + '</div>' +
     '</div>'
   );

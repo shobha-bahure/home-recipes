@@ -6203,5 +6203,174 @@ const RECIPES = [
     "notes_mr": "शोभा ताईच्या वहीतील रेसिपी #३२. शेंगदाण्याची पेस्ट या भाजीला समृद्ध, पौष्टिक चव देते.",
     "story_en": "[STORY: add family memory here]",
     "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "075",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.42.51 PM.jpeg"
+    ],
+    "title_en": "Yellow Rice",
+    "title_mr": "पिवळा भात",
+    "category": "Rice Dishes",
+    "serves": "2 servings",
+    "ingredients": [
+      {
+        "item_en": "Long-grained rice",
+        "item_mr": "लांब तांदूळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Cumin seeds (jeera)",
+        "item_mr": "जिरे",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Cinnamon stick (25mm)",
+        "item_mr": "दालचिनी काडी",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Clove",
+        "item_mr": "लवंग",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Bay leaf",
+        "item_mr": "तमालपत्र",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Turmeric powder (haldi)",
+        "item_mr": "हळद पावडर",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      }
+    ],
+    "method_en": "Heat oil in a pan. Add cumin seeds, cinnamon stick, clove and bay leaf. Sauté for 30 seconds. Add washed rice and turmeric powder and stir to coat. Add water in 1:2 ratio (rice:water) and salt to taste. Cook until rice is done. Fluff with a fork and serve.",
+    "method_mr": "तेल गरम करा. जिरे, दालचिनी काडी, लवंग आणि तमालपत्र घाला. ३० सेकंद परतवा. धुतलेले तांदूळ आणि हळद पावडर घालून मिसळा. १:२ प्रमाणात पाणी आणि मीठ घाला. भात शिजेपर्यंत ठेवा. काट्याने सैल करून सर्व करा.",
+    "notes_en": "Served as part of the Paneer Tikka Sizzler (recipe #073). The turmeric gives a beautiful golden colour.",
+    "notes_mr": "पनीर टिक्का सिझलरसह (रेसिपी #०७३) सर्व केला जातो. हळदीमुळे सुंदर सोनेरी रंग येतो.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "076",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.42.51 PM.jpeg",
+      "photos_raw/WhatsApp Unknown 2026-03-28 at 9.28.06 PM/WhatsApp Image 2026-03-28 at 7.42.52 PM.jpeg"
+    ],
+    "title_en": "Tomato Makhani Gravy with Stuffed Capsicum",
+    "title_mr": "टोमॅटो मखनी ग्रेव्ही व भरलेली शिमला मिरची",
+    "category": "Curries & Gravies",
+    "serves": "2 servings",
+    "ingredients": [
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Butter",
+        "item_mr": "लोणी",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Cloves",
+        "item_mr": "लवंग",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "item_en": "Cumin seeds",
+        "item_mr": "जिरे",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Onions (finely chopped)",
+        "item_mr": "कांदा (बारीक चिरलेला)",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Capsicum (boiled)",
+        "item_mr": "शिमला मिरची (उकडलेली)",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Corn kernels (boiled)",
+        "item_mr": "मक्याचे दाणे (उकडलेले)",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Green peas (boiled)",
+        "item_mr": "वाटाणे (उकडलेले)",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Roasted cumin seed (jeera) powder",
+        "item_mr": "भाजलेले जिरे पावडर",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Garam masala",
+        "item_mr": "गरम मसाला",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Kasuri methi (dried fenugreek leaves)",
+        "item_mr": "कसुरी मेथी",
+        "quantity": "",
+        "unit": ""
+      },
+      {
+        "item_en": "Coriander (chopped)",
+        "item_mr": "कोथिंबीर (चिरलेली)",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Oil + water mixture (for basting)",
+        "item_mr": "तेल + पाणी मिश्रण (लावण्यासाठी)",
+        "quantity": "1 tbsp each",
+        "unit": ""
+      }
+    ],
+    "method_en": "Heat oil and butter together. Add cloves and cumin seeds. Add finely chopped onions and sauté until golden. Add boiled corn kernels, green peas and capsicum. Add roasted cumin powder, garam masala and kasuri methi. Season with salt. Mix well and cook for 2-3 minutes. Garnish with chopped coriander. For stuffed capsicum: stuff the boiled capsicum with the corn-pea filling and serve alongside the gravy.",
+    "method_mr": "तेल आणि लोणी एकत्र गरम करा. लवंग आणि जिरे घाला. बारीक चिरलेला कांदा सोनेरी होईपर्यंत परतवा. उकडलेले मक्याचे दाणे, वाटाणे आणि शिमला मिरची घाला. भाजलेले जिरे पावडर, गरम मसाला आणि कसुरी मेथी घाला. मीठ घालून मिसळा. २-३ मिनिटे शिजवा. कोथिंबीरीने सजवा. भरलेल्या शिमला मिरचीसाठी: उकडलेल्या शिमला मिरचीत मक्या-वाटाण्याचे सारण भरा.",
+    "notes_en": "Served as part of the Paneer Tikka Sizzler (recipe #073) with Yellow Rice (recipe #075). Some quantities in the original photo were partially visible.",
+    "notes_mr": "पनीर टिक्का सिझलर (रेसिपी #०७३) आणि पिवळ्या भातासह (रेसिपी #०७५) सर्व केला जातो.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
   }
 ];
