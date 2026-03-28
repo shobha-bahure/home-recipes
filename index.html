@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shobha Tai's Kitchen</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Noto+Serif+Devanagari:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Password gate -->
+  <div id="gate" class="gate-overlay">
+    <div class="gate-box">
+      <div class="gate-icon">🍽️</div>
+      <h1>Shobha Tai's Kitchen</h1>
+      <p class="gate-sub">Family Recipe Collection</p>
+      <form id="gate-form">
+        <input type="password" id="gate-pwd" placeholder="Family password" autocomplete="current-password">
+        <button type="submit">Enter</button>
+      </form>
+      <p id="gate-err" class="gate-error"></p>
+    </div>
+  </div>
+
+  <!-- App -->
+  <div id="app">
+    <header>
+      <div class="header-inner">
+        <a href="#" class="site-title" id="site-title">Shobha Tai's Kitchen</a>
+        <div class="header-right">
+          <input type="search" id="search-input" placeholder="Search recipes…" autocomplete="off">
+          <button id="lang-btn" class="lang-btn">मराठी</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="main"></main>
+
+    <footer>
+      <p id="footer-text">Shobha Bahure's recipes, preserved with love · 62 recipes</p>
+    </footer>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
