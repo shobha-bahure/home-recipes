@@ -6372,5 +6372,1272 @@ const RECIPES = [
     "notes_mr": "पनीर टिक्का सिझलर (रेसिपी #०७३) आणि पिवळ्या भातासह (रेसिपी #०७५) सर्व केला जातो.",
     "story_en": "[STORY: add family memory here]",
     "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "077",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.02.26 AM.jpeg",
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.02.55 AM.jpeg"
+    ],
+    "title_en": "Gol Bhat (Stuffed Rice Balls in Rice)",
+    "title_mr": "गोळा भात",
+    "category": "Rice Dishes",
+    "serves": "4-6",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Rice",
+        "item_mr": "तांदूळ",
+        "quantity": "2",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Gram flour (besan), roasted",
+        "item_mr": "भाजलेले बेसन",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Grated coconut",
+        "item_mr": "किसलेला नारळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Roasted groundnut powder",
+        "item_mr": "भाजलेले शेंगदाणे पावडर",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Coriander seed powder",
+        "item_mr": "धणे पावडर",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Chopped coriander leaves",
+        "item_mr": "चिरलेली कोथिंबीर",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Red chilli powder",
+        "item_mr": "लाल मिरची पावडर",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Turmeric",
+        "item_mr": "हळद",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Salt (for cooking rice)",
+        "item_mr": "मीठ (भात शिजवण्यासाठी)",
+        "quantity": "½",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Ghee (for cooking rice)",
+        "item_mr": "तूप (भात शिजवण्यासाठी)",
+        "quantity": "½",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Oil (for seasoning)",
+        "item_mr": "तेल (फोडणीसाठी)",
+        "quantity": "3",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Cumin seeds",
+        "item_mr": "जिरे",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Mustard seeds",
+        "item_mr": "मोहरी",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Asafoetida (hing)",
+        "item_mr": "हिंग",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Whole red chilli",
+        "item_mr": "साबुत लाल मिरची",
+        "quantity": "1",
+        "unit": ""
+      }
+    ],
+    "method_en": "Mix together roasted besan, grated coconut, roasted groundnut powder, coriander seed powder, chopped coriander, red chilli powder, turmeric and salt. Mix well and make small balls; keep aside. In a pot, cook 2 cups of rice with 4 cups of water, adding ½ tbsp salt and ½ tbsp ghee. Let it cook up to 70% done. Then make small spaces in the rice and place the besan balls one by one into the rice. Let the rice cook fully until soft, so the balls steam inside. For the seasoning, heat oil and add cumin seeds, mustard seeds, asafoetida and one whole red chilli. Pour this oil seasoning over the rice and balls and mix gently before serving.",
+    "method_mr": "भाजलेले बेसन, किसलेला नारळ, भाजलेले शेंगदाणे पावडर, धणे पावडर, चिरलेली कोथिंबीर, लाल मिरची पावडर, हळद आणि मीठ एकत्र मिसळा. चांगले मिसळून छोटे छोटे गोळे बनवा; बाजूला ठेवा. एका भांड्यात २ कप तांदूळ, ४ कप पाणी, ½ चमचा मीठ आणि ½ चमचा तूप घालून भात शिजवायला ठेवा. ७०% शिजल्यावर भातात छोट्या जागा करा आणि एकेक गोळा आत ठेवा. भात पूर्णपणे मऊ होईपर्यंत शिजवा. फोडणीसाठी तेल गरम करा, जिरे, मोहरी, हिंग आणि साबुत लाल मिरची घाला. ही फोडणी भात-गोळ्यांवर घाला आणि हळुवारपणे मिसळा.",
+    "notes_en": "The besan-coconut-groundnut balls steam inside the rice, absorbing the flavours. Serve with a side of yoghurt or pickle.",
+    "notes_mr": "बेसन-नारळ-शेंगदाण्याचे गोळे भातात वाफाळतात आणि भाताचा स्वाद शोषून घेतात. दही किंवा लोणच्यासोबत सर्व करा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "078",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.04.53 AM.jpeg"
+    ],
+    "title_en": "Yellow Rice (Lemon Seasoned Rice)",
+    "title_mr": "पिवळा भात (लिंबू फोडणीचा भात)",
+    "category": "Rice Dishes",
+    "serves": "",
+    "shobha_original": true,
+    "notes_en": "Shobha's own version. The recipe 075 (Yellow Rice) in the previous batch was NOT written by Shobha — this is her actual recipe. Made with leftover or freshly cooked plain rice.",
+    "notes_mr": "शोभाचे स्वतःचे रेसिपी. मागील बॅचमधील ०७५ नंबर रेसिपी शोभाने लिहिलेली नव्हती — हे तिचे खरे रेसिपी आहे. उरलेल्या किंवा ताज्या शिजवलेल्या भातापासून बनवतात.",
+    "ingredients": [
+      {
+        "item_en": "Cooked plain rice (leftover or fresh)",
+        "item_mr": "शिजवलेला साधा भात (उरलेला किंवा ताजा)",
+        "quantity": "as needed",
+        "unit": ""
+      },
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Cumin seeds",
+        "item_mr": "जिरे",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Mustard seeds",
+        "item_mr": "मोहरी",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Chana dal",
+        "item_mr": "चणा डाळ",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Urad dal",
+        "item_mr": "उडीद डाळ",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Turmeric powder",
+        "item_mr": "हळद पावडर",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Asafoetida (hing)",
+        "item_mr": "हिंग",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Curry leaves",
+        "item_mr": "कढीपत्ता",
+        "quantity": "5-6",
+        "unit": ""
+      },
+      {
+        "item_en": "Lemon juice",
+        "item_mr": "लिंबाचा रस",
+        "quantity": "3",
+        "unit": "tbsp (as per taste)"
+      },
+      {
+        "item_en": "Sugar",
+        "item_mr": "साखर",
+        "quantity": "pinch",
+        "unit": ""
+      },
+      {
+        "item_en": "Coriander leaves (for garnish)",
+        "item_mr": "कोथिंबीर (सजावटीसाठी)",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "method_en": "Heat oil in a pan. Add cumin seeds and mustard seeds. Add chana dal and urad dal and sauté until lightly golden. Add turmeric powder, asafoetida and curry leaves. Add the cooked rice and mix well, sautéing gently. Add lemon juice (as per taste). Add a pinch of sugar. Garnish with coriander leaves on top and mix well. Serve warm.",
+    "method_mr": "पॅनमध्ये तेल गरम करा. जिरे आणि मोहरी घाला. चणा डाळ आणि उडीद डाळ घालून सोनेरी होईपर्यंत परतवा. हळद पावडर, हिंग आणि कढीपत्ता घाला. शिजवलेला भात घालून हळुवारपणे परतवा. चवीनुसार लिंबाचा रस घाला. चिमूटभर साखर घाला. वरून कोथिंबीर घाला आणि चांगले मिसळा. उबदार सर्व करा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "079",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.22.26 AM.jpeg"
+    ],
+    "title_en": "Thalipeethi Mix (Diabetic Version, 40gm portions)",
+    "title_mr": "थालीपीठ मिश्रण (मधुमेहींसाठी, ४०ग्रॅम)",
+    "category": "Health Mixes & Diet Plans",
+    "serves": "makes large batch; use 40gm per serving",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Roasted rice",
+        "item_mr": "भाजलेले तांदूळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Moong (whole green gram)",
+        "item_mr": "मूग",
+        "quantity": "1½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Red lentil (masoor)",
+        "item_mr": "मसूर डाळ",
+        "quantity": "1½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Jowar (sorghum)",
+        "item_mr": "जोवार",
+        "quantity": "1¼",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Barley",
+        "item_mr": "जव",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Coriander seeds",
+        "item_mr": "धणे",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Cumin seed powder",
+        "item_mr": "जिरे पावडर",
+        "quantity": "as per choice",
+        "unit": ""
+      }
+    ],
+    "method_en": "Dry roast all grains separately. Grind all ingredients together into a coarse flour. Store in an airtight container. Use 40gm per serving. Make into thalipeethi (flatbread) as usual — mix with water, onion, coriander, green chilli and salt to form a soft dough, flatten on a greased pan, make a hole in the centre, and cook on medium flame with oil until golden on both sides.",
+    "method_mr": "सर्व धान्ये वेगवेगळी कोरडी भाजा. सर्व घटक एकत्र जाडसर दळा. हवाबंद डब्यात साठवा. प्रत्येक सर्विंगसाठी ४०ग्रॅम वापरा. नेहमीप्रमाणे थालीपीठ बनवा — पाणी, कांदा, कोथिंबीर, हिरवी मिरची आणि मीठ घालून मऊ पीठ मळा, तेलाळलेल्या तव्यावर लाटा, मध्यभागी भोक करा, मध्यम आचेवर दोन्ही बाजूंनी सोनेरी होईपर्यंत शिजवा.",
+    "notes_en": "Variant of recipe #066 (Thalipeethi Mix). This version is specifically designed for diabetics with multi-grain combination. Labelled as portion #2 in a series of diabetic diet mixes by Shobha.",
+    "notes_mr": "रेसिपी #०६६ (थालीपीठ मिश्रण) चे रूपांतर. हे विशेषतः मधुमेहींसाठी बहु-धान्य मिश्रणासह बनवले आहे.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "080",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.23.33 AM.jpeg",
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.23.58 AM.jpeg",
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.25.32 AM.jpeg",
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.26.14 AM.jpeg"
+    ],
+    "title_en": "Prameha (Diabetic) Diet Mixes — Full Set",
+    "title_mr": "प्रमेह (मधुमेह) आहार मिश्रणे — संपूर्ण संच",
+    "category": "Health Mixes & Diet Plans",
+    "serves": "makes large batch; use 40gm per serving",
+    "shobha_original": true,
+    "ingredients": [],
+    "method_en": "This recipe is a collection of diabetic-friendly mix formulas. Each sub-mix is prepared by dry roasting the grains/lentils, then grinding to a coarse flour. Store in airtight containers. Use 40gm per serving.\n\n**Sub-mix 1 — Moong Daliya Mix (40gm portion)**\n- Moong dal — 1 cup\n- Broken wheat (daliya) — 1 cup\n- Wheat bran — 1 cup\n\n**Sub-mix 2 — Idli Mix (40gm portion)**\n- Idli rice (boiled rice) — 2 parts\n- Barley lentils — ½ part\n- Black gram dal — 1 part\n- Fenugreek seeds (methi) — 1 tsp\n- Dried fenugreek leaves — 1 tsp\n\n**Sub-mix 3 — Cinnamon Utappa Mix (40gm portion)**\n- Broken wheat\n- Ragi (finger millet)\n- Soyabean\n- Wheat bran\n- Cumin\n- Cinnamon\n\n**Sub-mix 4 — Atta Mix (25gm portion)**\n- Wheat\n- Barley\n- Soybean\n- Moong\n- Wheat bran\n- Bengal gram\n- Jamun (black plum powder)\n- Arjun powder (heart tonic herb)\n\n**Sub-mix 5 — Dal Three Mix (20gm portion)**\n- Moong\n- Tur (toor/pigeon pea)\n- Masoor (red lentil)\n\n**Sub-mix 6 — Soup Mix (10gm portion)**\n- Tomato powder\n- Kulth (horse gram)\n- Moringa (drumstick leaf powder)\n- Palak (spinach powder)\n- Dudhi / Lauki (bottle gourd powder)\n- Cinnamon\n- Cumin\n- Black pepper\n- Salt\n- Ginger & garlic paste (or powder)",
+    "method_mr": "हे रेसिपी मधुमेहींसाठी मिश्रण फॉर्म्युल्यांचा संग्रह आहे. प्रत्येक उप-मिश्रण कोरडे भाजून मग जाडसर दळून तयार करा. हवाबंद डब्यांमध्ये साठवा. प्रत्येक सर्विंगसाठी ४०ग्रॅम वापरा.\n\n**उप-मिश्रण १ — मूग दळिया मिश्रण (४०ग्रॅम)**\n- मूग डाळ — १ कप\n- तुटलेला गहू (दळिया) — १ कप\n- गव्हाचा कोंडा — १ कप\n\n**उप-मिश्रण २ — इडली मिश्रण (४०ग्रॅम)**\n- इडली तांदूळ — २ भाग\n- जवाची डाळ — ½ भाग\n- उडीद डाळ — १ भाग\n- मेथीचे दाणे — १ चमचा\n- वाळलेली मेथी — १ चमचा\n\n**उप-मिश्रण ३ — दालचिनी उत्तपा मिश्रण (४०ग्रॅम)**\n- तुटलेला गहू, नाचणी, सोयाबीन, गव्हाचा कोंडा, जिरे, दालचिनी\n\n**उप-मिश्रण ४ — आटा मिश्रण (२५ग्रॅम)**\n- गहू, जव, सोयाबीन, मूग, गव्हाचा कोंडा, हरभरा, जांभूळ पावडर, अर्जुन पावडर\n\n**उप-मिश्रण ५ — तीन डाळ मिश्रण (२०ग्रॅम)**\n- मूग, तूर, मसूर\n\n**उप-मिश्रण ६ — सूप मिश्रण (१०ग्रॅम)**\n- टोमॅटो, कुळीथ, शेवगा पाला, पालक, दुधी, दालचिनी, जिरे, काळी मिरी, मीठ, आलं-लसूण",
+    "notes_en": "Extended version of recipe #060 (Diabetic Diet Plan). This set covers breakfast mixes, dal mix, soup mix and atta mix for daily diabetic meal planning. Jamun and Arjun powder are Ayurvedic additions believed to help control blood sugar.",
+    "notes_mr": "रेसिपी #०६० (मधुमेह आहार योजना) चे विस्तारित रूप. जांभूळ आणि अर्जुन पावडर हे रक्तातील साखर नियंत्रणासाठी आयुर्वेदिक घटक आहेत.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "081",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.29.13 AM.jpeg"
+    ],
+    "title_en": "Atta Mix for Weight Loss",
+    "title_mr": "वजन कमी करण्यासाठी पीठ मिश्रण",
+    "category": "Health Mixes & Diet Plans",
+    "serves": "makes large batch for daily use",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Jowar (sorghum)",
+        "item_mr": "जोवार",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "item_en": "Wheat",
+        "item_mr": "गहू",
+        "quantity": "200",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Soya",
+        "item_mr": "सोयाबीन",
+        "quantity": "300",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Chana (Bengal gram)",
+        "item_mr": "हरभरा",
+        "quantity": "200",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Methi seeds (fenugreek)",
+        "item_mr": "मेथीचे दाणे",
+        "quantity": "10",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Oats",
+        "item_mr": "ओट्स",
+        "quantity": "100",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Flex seeds (flaxseeds)",
+        "item_mr": "जवस (अळशी)",
+        "quantity": "100",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Jowar goti (jowar grains)",
+        "item_mr": "जोवाराचे गोटे",
+        "quantity": "100",
+        "unit": "gm"
+      }
+    ],
+    "method_en": "Clean and dry roast each ingredient separately. Grind all together into a smooth flour. Mix well and store in an airtight container. Use this flour to make rotis or bhakri for daily use as part of a weight-loss diet.",
+    "method_mr": "प्रत्येक घटक स्वच्छ करून वेगवेगळे कोरडे भाजा. सर्व एकत्र बारीक दळा. नीट मिसळून हवाबंद डब्यात साठवा. वजन कमी करण्याच्या आहारात रोज रोटी किंवा भाकरी बनवण्यासाठी हे पीठ वापरा.",
+    "notes_en": "High-protein, high-fibre multi-grain flour blend designed for weight loss. Soya and chana provide protein; flaxseeds and methi add healthy fats and help control hunger.",
+    "notes_mr": "वजन कमी करण्यासाठी बहु-धान्य पीठ. सोयाबीन आणि हरभरा प्रथिने देतात; जवस आणि मेथी निरोगी चरबी देतात आणि भूक नियंत्रित करण्यास मदत करतात.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "082",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.30.25 AM.jpeg"
+    ],
+    "title_en": "Atta Mix for Daily Use",
+    "title_mr": "रोजच्या वापरासाठी पीठ मिश्रण",
+    "category": "Health Mixes & Diet Plans",
+    "serves": "makes large batch for daily use",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Jowar (sorghum)",
+        "item_mr": "जोवार",
+        "quantity": "1",
+        "unit": "kg"
+      },
+      {
+        "item_en": "Soya",
+        "item_mr": "सोयाबीन",
+        "quantity": "200",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Moong atta (moong flour)",
+        "item_mr": "मूग पीठ",
+        "quantity": "200",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Methi seeds (fenugreek)",
+        "item_mr": "मेथीचे दाणे",
+        "quantity": "10",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Oats",
+        "item_mr": "ओट्स",
+        "quantity": "100",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Flex seeds (flaxseeds)",
+        "item_mr": "जवस (अळशी)",
+        "quantity": "100",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Jowar (extra)",
+        "item_mr": "जोवार (अतिरिक्त)",
+        "quantity": "100",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Rajgira (amaranth)",
+        "item_mr": "राजगिरा",
+        "quantity": "100",
+        "unit": "gm"
+      }
+    ],
+    "method_en": "Clean and dry roast each ingredient separately. Grind all together into flour. Mix well and store in an airtight container. Use daily to make rotis or bhakri.",
+    "method_mr": "प्रत्येक घटक स्वच्छ करून वेगवेगळे कोरडे भाजा. सर्व एकत्र दळा. नीट मिसळून हवाबंद डब्यात साठवा. रोज रोटी किंवा भाकरी बनवण्यासाठी वापरा.",
+    "notes_en": "This is a nutritious daily-use multi-grain flour. Different from recipe #081 (weight-loss atta) — this one uses moong atta and rajgira for extra nutrition. Rajgira (amaranth) is especially rich in calcium and protein.",
+    "notes_mr": "हे एक पौष्टिक रोज वापरण्याचे बहु-धान्य पीठ आहे. रेसिपी #०८१ (वजन कमी पीठ) पेक्षा वेगळे — यात मूग पीठ आणि राजगिरा जास्त पोषणासाठी वापरला आहे.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "083",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.35.12 AM.jpeg"
+    ],
+    "title_en": "Raw Papaya Salad with Groundnut Dressing",
+    "title_mr": "कच्च्या पपईचे सॅलड शेंगदाण्याच्या ड्रेसिंगसह",
+    "category": "Snacks & Light Meals",
+    "serves": "2-3",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Green papaya",
+        "item_mr": "कच्ची पपई",
+        "quantity": "1",
+        "unit": "small"
+      },
+      {
+        "item_en": "Carrot",
+        "item_mr": "गाजर",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Raw mango slices",
+        "item_mr": "कच्च्या आंब्याच्या फोडी",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Tomatoes",
+        "item_mr": "टोमॅटो",
+        "quantity": "1-2",
+        "unit": ""
+      },
+      {
+        "item_en": "Groundnut (soaked)",
+        "item_mr": "भिजवलेले शेंगदाणे",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Lemon juice",
+        "item_mr": "लिंबाचा रस",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Green chilli",
+        "item_mr": "हिरवी मिरची",
+        "quantity": "½",
+        "unit": "tsp (chopped)"
+      },
+      {
+        "item_en": "Pink salt / sendha namak",
+        "item_mr": "सेंधा मीठ",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Jaggery",
+        "item_mr": "गूळ",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Roasted groundnuts (for garnish)",
+        "item_mr": "भाजलेले शेंगदाणे (सजावटीसाठी)",
+        "quantity": "1",
+        "unit": "tbsp"
+      }
+    ],
+    "method_en": "Cut green papaya, carrot, raw mango and tomatoes all into thin strips. Place in a bowl. For the dressing: grind together soaked groundnuts, lemon juice, green chilli, pink salt and jaggery. Mix and grind to a coarse paste. Add dressing to the salad and toss well. Top with roasted groundnuts for crunch. Serve fresh.",
+    "method_mr": "कच्ची पपई, गाजर, कच्चा आंबा आणि टोमॅटो सर्व पातळ पट्ट्यांमध्ये कापा. भांड्यात ठेवा. ड्रेसिंगसाठी: भिजवलेले शेंगदाणे, लिंबाचा रस, हिरवी मिरची, सेंधा मीठ आणि गूळ एकत्र जाडसर दळा. ड्रेसिंग सॅलडमध्ये घाला आणि चांगले मिसळा. वरून भाजलेले शेंगदाणे घाला (कुरकुरीतपणासाठी). ताजे सर्व करा.",
+    "notes_en": "A refreshing and healthy salad. Pink salt is preferred for its mineral content. Jaggery balances the tanginess of lemon and mango.",
+    "notes_mr": "एक ताजेतवाने आणि आरोग्यदायी सॅलड. सेंधा मीठ खनिज घटकांसाठी उत्तम. गूळ लिंबू आणि आंब्याची आंबट चव संतुलित करतो.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "084",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.39.13 AM.jpeg"
+    ],
+    "title_en": "Soya Dhokla Atta Mix",
+    "title_mr": "सोया ढोकळा पीठ मिश्रण",
+    "category": "Health Mixes & Diet Plans",
+    "serves": "makes large batch",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Kabuli chana (chickpeas)",
+        "item_mr": "काबुली चणे",
+        "quantity": "2",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Soya beans",
+        "item_mr": "सोयाबीन",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Oats",
+        "item_mr": "ओट्स",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Wheat bran",
+        "item_mr": "गव्हाचा कोंडा",
+        "quantity": "¼",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Black gram (urad dal)",
+        "item_mr": "उडीद डाळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Gooseberry powder (Amla powder)",
+        "item_mr": "आवळा पावडर",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "Dry roast all grains and lentils separately, then grind together into a fine flour. Mix in amla powder. Store in an airtight container. To make dhokla: mix flour with water, salt and a pinch of eno/soda to make a batter. Steam for 15-20 minutes. Temper with mustard seeds, green chilli and curry leaves. See also recipe #019 (Soya Dhokla) for the full method.",
+    "method_mr": "सर्व धान्ये आणि डाळी वेगवेगळ्या कोरड्या भाजा, मग एकत्र बारीक दळा. आवळा पावडर मिसळा. हवाबंद डब्यात साठवा. ढोकळा बनवण्यासाठी: पीठ, पाणी, मीठ आणि चिमूटभर ईनो/सोडा मिसळून बॅटर बनवा. १५-२० मिनिटे वाफवा. मोहरी, हिरवी मिरची आणि कढीपत्त्याने फोडणी द्या. पूर्ण पद्धतीसाठी रेसिपी #०१९ पहा.",
+    "notes_en": "Updated/alternate dry atta mix for Soya Dhokla (recipe #019). The addition of oats and wheat bran makes it more nutritious and diabetic-friendly. Amla powder adds vitamin C.",
+    "notes_mr": "सोया ढोकळ्यासाठी (रेसिपी #०१९) अद्ययावत/पर्यायी कोरडे पीठ मिश्रण. ओट्स आणि कोंडा यांमुळे अधिक पौष्टिक आणि मधुमेहींसाठी उत्तम. आवळा पावडरमुळे व्हिटॅमिन सी मिळते.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "085",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.39.46 AM.jpeg"
+    ],
+    "title_en": "Chilla / Ghavan Mix Atta (Multi-grain Crepe Flour)",
+    "title_mr": "चिल्ला / घावन मिश्रण पीठ (बहु-धान्य)",
+    "category": "Batters & Dosas",
+    "serves": "makes large batch",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Green gram (whole moong)",
+        "item_mr": "मूग (साबुत)",
+        "quantity": "2",
+        "unit": "cups"
+      },
+      {
+        "item_en": "Bengal gram dal (chana dal)",
+        "item_mr": "चणा डाळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Black gram dal (urad dal)",
+        "item_mr": "उडीद डाळ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Quinoa",
+        "item_mr": "क्विनोआ",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Rice",
+        "item_mr": "तांदूळ",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Fenugreek seeds (methi)",
+        "item_mr": "मेथीचे दाणे",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Coriander seed powder",
+        "item_mr": "धणे पावडर",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Cumin seed powder",
+        "item_mr": "जिरे पावडर",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Carom seeds (ajwain)",
+        "item_mr": "ओवा",
+        "quantity": "2",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "Dry roast all dals and grains separately. Grind together into a fine flour. Mix in the spice powders. Store in an airtight container. To make chilla/ghavan: mix flour with water to form a thin, pourable batter. Add salt, chopped onion and coriander if desired. Pour onto a hot greased tawa and spread into thin crepes. Cook on medium flame until golden on both sides.",
+    "method_mr": "सर्व डाळी आणि धान्ये वेगवेगळी कोरडी भाजा. एकत्र बारीक दळा. मसाले पावडर मिसळा. हवाबंद डब्यात साठवा. चिल्ला/घावन बनवण्यासाठी: पीठ पाण्यात मिसळून पातळ बॅटर तयार करा. आवडल्यास मीठ, चिरलेला कांदा आणि कोथिंबीर घाला. गरम तेलाळलेल्या तव्यावर पातळ घावन घाला. मध्यम आचेवर दोन्ही बाजूंनी सोनेरी होईपर्यंत शिजवा.",
+    "notes_en": "A nutritious multi-grain batter base for making chilla (North Indian crepes) or ghavan (Maharashtrian crepes). Quinoa is an unusual addition that boosts protein content.",
+    "notes_mr": "चिल्ला (उत्तर भारतीय) किंवा घावन (महाराष्ट्रीयन) बनवण्यासाठी पौष्टिक बहु-धान्य बॅटर. क्विनोआ अनोखी भर असून प्रथिने वाढवतो.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "086",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.40.35 AM.jpeg"
+    ],
+    "title_en": "Muthiya with Kadhi (Lauki Dumplings in Yoghurt Curry)",
+    "title_mr": "मुठीया आणि कढी (दुधी मुठीया)",
+    "category": "Curries & Gravies",
+    "serves": "4",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Lauki (bottle gourd), grated",
+        "item_mr": "दुधी (भोपळा), किसलेली",
+        "quantity": "1",
+        "unit": "medium"
+      },
+      {
+        "item_en": "Coriander leaves, chopped",
+        "item_mr": "कोथिंबीर, चिरलेली",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Coriander powder",
+        "item_mr": "धणे पावडर",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Red chilli powder",
+        "item_mr": "लाल मिरची पावडर",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Green chilli paste",
+        "item_mr": "हिरवी मिरची पेस्ट",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Turmeric",
+        "item_mr": "हळद",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Baking soda",
+        "item_mr": "बेकिंग सोडा",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Semolina (rava)",
+        "item_mr": "रवा",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Gram flour (besan)",
+        "item_mr": "बेसन",
+        "quantity": "¼",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Jowar atta",
+        "item_mr": "जोवाराचे पीठ",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Curd (for kadhi)",
+        "item_mr": "दही (कढीसाठी)",
+        "quantity": "1",
+        "unit": "bowl"
+      },
+      {
+        "item_en": "Cashew paste (for kadhi)",
+        "item_mr": "काजूची पेस्ट (कढीसाठी)",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Brown onion paste",
+        "item_mr": "तळलेल्या कांद्याची पेस्ट",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Garlic chilli paste",
+        "item_mr": "लसूण मिरची पेस्ट",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Coriander paste",
+        "item_mr": "कोथिंबीर पेस्ट",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Ghee (for tempering muthiya)",
+        "item_mr": "तूप (मुठीयासाठी फोडणी)",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Mustard seeds (for tempering)",
+        "item_mr": "मोहरी (फोडणीसाठी)",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Cumin seeds (for tempering)",
+        "item_mr": "जिरे (फोडणीसाठी)",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Sesame seeds / til (for tempering)",
+        "item_mr": "तीळ (फोडणीसाठी)",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "For muthiya: Grate lauki and squeeze out water. Mix with chopped coriander, coriander powder, red chilli powder, green chilli paste, turmeric, salt and oil. Add baking soda, semolina, besan and jowar atta. Mix well without adding water (lauki releases its own moisture) and form a firm dough. Shape into round balls (muthiya). Steam for 15-20 minutes until cooked. For kadhi sauce: Mix curd, cashew paste, brown onion paste, garlic chilli paste, coriander paste and turmeric with ghee. Mix it all together. To serve: temper the steamed muthiya with ghee, mustard seeds, cumin seeds and sesame seeds, then pour the kadhi over or serve alongside.",
+    "method_mr": "मुठीयासाठी: दुधी किसून पाणी पिळून काढा. कोथिंबीर, धणे पावडर, लाल मिरची पावडर, हिरवी मिरची पेस्ट, हळद, मीठ आणि तेल मिसळा. बेकिंग सोडा, रवा, बेसन आणि जोवाराचे पीठ घाला. पाणी न घालता (दुधी स्वतःच ओलावा सोडते) घट्ट पीठ मळा. गोळ्या (मुठीया) बनवा. १५-२० मिनिटे वाफवा. कढीसाठी: दही, काजू पेस्ट, तळलेल्या कांद्याची पेस्ट, लसूण मिरची पेस्ट, कोथिंबीर पेस्ट आणि हळद तुपात मिसळा. सर्व्ह करताना: वाफवलेल्या मुठीयांना तूप, मोहरी, जिरे आणि तिळाची फोडणी द्या, मग कढी वरून घाला.",
+    "notes_en": "Lauki muthiya are soft dumplings cooked in a rich kadhi. The jowar atta makes this a nutritious, lighter version.",
+    "notes_mr": "दुधीचे मुठीया मऊ गोळे कढीत शिजवलेले. जोवाराच्या पिठामुळे हे अधिक पौष्टिक आणि हलके आहे.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "087",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.41.15 AM.jpeg"
+    ],
+    "title_en": "Mushroom Gravy",
+    "title_mr": "मशरूम ग्रेव्ही",
+    "category": "Curries & Gravies",
+    "serves": "3-4",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Cumin seeds",
+        "item_mr": "जिरे",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Turmeric (haldi)",
+        "item_mr": "हळद",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Coriander powder",
+        "item_mr": "धणे पावडर",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Kasuri methi (dried fenugreek leaves)",
+        "item_mr": "कसुरी मेथी",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Tomato paste",
+        "item_mr": "टोमॅटो पेस्ट",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Cashew nuts (blended to paste)",
+        "item_mr": "काजू (पेस्ट)",
+        "quantity": "7-8",
+        "unit": ""
+      },
+      {
+        "item_en": "Ginger piece",
+        "item_mr": "आलं",
+        "quantity": "½",
+        "unit": "inch"
+      },
+      {
+        "item_en": "Green chilli",
+        "item_mr": "हिरवी मिरची",
+        "quantity": "1-2",
+        "unit": ""
+      },
+      {
+        "item_en": "Red chilli powder",
+        "item_mr": "लाल मिरची पावडर",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Cream",
+        "item_mr": "क्रीम",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Mushroom, cut in pieces",
+        "item_mr": "मशरूम, तुकडे केलेले",
+        "quantity": "200",
+        "unit": "gm"
+      },
+      {
+        "item_en": "Coriander powder (additional)",
+        "item_mr": "धणे पावडर (अतिरिक्त)",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Water",
+        "item_mr": "पाणी",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Maggi masala / garam masala",
+        "item_mr": "मॅगी मसाला / गरम मसाला",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "Heat oil in a pan. Add cumin seeds. Add turmeric, coriander powder and kasuri methi. Blend cashew nuts with ginger and green chilli into a paste. Add tomato paste to the pan and sauté well. Add the cashew-ginger-chilli paste and cook until oil separates. Add red chilli powder, cream, mushroom pieces, coriander powder and water (1 cup). Cook well on medium heat. Add Maggi masala (or garam masala) and let it boil. Keep aside and serve.",
+    "method_mr": "पॅनमध्ये तेल गरम करा. जिरे घाला. हळद, धणे पावडर आणि कसुरी मेथी घाला. काजू, आलं आणि हिरवी मिरची एकत्र वाटून पेस्ट बनवा. पॅनमध्ये टोमॅटो पेस्ट घालून चांगले परतवा. काजू-आलं-मिरचीची पेस्ट घालून तेल सुटेपर्यंत शिजवा. लाल मिरची पावडर, क्रीम, मशरूम तुकडे, धणे पावडर आणि पाणी (१ कप) घाला. मध्यम आचेवर चांगले शिजवा. मॅगी मसाला (किंवा गरम मसाला) घालून उकळवा. बाजूला ठेवा आणि सर्व करा.",
+    "notes_en": "Rich, creamy mushroom gravy. The cashew-ginger paste adds body and creaminess without excess cream. Serve with roti or rice.",
+    "notes_mr": "समृद्ध, मलईदार मशरूम ग्रेव्ही. काजू-आलं पेस्टमुळे जास्त क्रीमशिवाय मलईदारपणा येतो. रोटी किंवा भातासोबत सर्व करा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "088",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.42.07 AM.jpeg"
+    ],
+    "title_en": "Gujarati Kadhi (Sweet & Sour Yoghurt Curry)",
+    "title_mr": "गुजराती कढी (गोड-आंबट दही कढी)",
+    "category": "Curries & Gravies",
+    "serves": "4",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Curd (yoghurt)",
+        "item_mr": "दही",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Besan (gram flour)",
+        "item_mr": "बेसन",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Coriander leaves",
+        "item_mr": "कोथिंबीर",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Butter or ghee",
+        "item_mr": "लोणी किंवा तूप",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Green chilli, split",
+        "item_mr": "हिरवी मिरची, चिरलेली",
+        "quantity": "1-2",
+        "unit": ""
+      },
+      {
+        "item_en": "Curry leaves",
+        "item_mr": "कढीपत्ता",
+        "quantity": "6-8",
+        "unit": ""
+      },
+      {
+        "item_en": "Lime wedge (mint)",
+        "item_mr": "लिंबू / पुदिना",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Cloves",
+        "item_mr": "लवंग",
+        "quantity": "2",
+        "unit": ""
+      },
+      {
+        "item_en": "Cinnamon pieces",
+        "item_mr": "दालचिनीचे तुकडे",
+        "quantity": "1",
+        "unit": "small stick"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Sugar",
+        "item_mr": "साखर",
+        "quantity": "1½",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Mustard seeds",
+        "item_mr": "मोहरी",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Cumin seeds",
+        "item_mr": "जिरे",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Fenugreek seeds (methi)",
+        "item_mr": "मेथीचे दाणे",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Ginger paste",
+        "item_mr": "आल्याची पेस्ट",
+        "quantity": "½",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "Whisk together curd and besan with water to make a smooth thin mixture. Heat butter/ghee in a pot. Add mustard seeds, cumin seeds, fenugreek seeds, cloves, cinnamon, split green chilli and curry leaves. Pour in the curd-besan mixture and stir continuously on medium heat to prevent lumps. Add sugar, salt and ginger paste. Keep stirring and cooking until the kadhi thickens. Add coriander leaves. Add lime juice to taste. Serve hot with rice.",
+    "method_mr": "दही आणि बेसन पाण्यात चांगले फेटा. एका भांड्यात लोणी/तूप गरम करा. मोहरी, जिरे, मेथी, लवंग, दालचिनी, चिरलेली हिरवी मिरची आणि कढीपत्ता घाला. दही-बेसन मिश्रण घाला आणि मध्यम आचेवर सतत ढवळत शिजवा. साखर, मीठ आणि आल्याची पेस्ट घाला. कढी घट्ट होईपर्यंत ढवळत शिजवा. कोथिंबीर घाला. चवीनुसार लिंबाचा रस घाला. भातासोबत गरम सर्व करा.",
+    "notes_en": "Gujarati kadhi is sweeter than Maharashtrian kadhi. The 1½ tbsp sugar is characteristic. Do not stop stirring while cooking or it will curdle.",
+    "notes_mr": "गुजराती कढी महाराष्ट्रीयन कढीपेक्षा गोड असते. दीड चमचा साखर हे वैशिष्ट्य आहे. शिजवताना ढवळणे थांबवू नका नाहीतर फाटेल.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "089",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.45.11 AM.jpeg"
+    ],
+    "title_en": "Choco Lava Cake",
+    "title_mr": "चॉकलेट लावा केक",
+    "category": "Sweets & Desserts",
+    "serves": "6-8",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Milk",
+        "item_mr": "दूध",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Oil",
+        "item_mr": "तेल",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Vanilla essence",
+        "item_mr": "व्हनिला एसन्स",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Vinegar",
+        "item_mr": "व्हिनेगर",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Sugar",
+        "item_mr": "साखर",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Cocoa powder",
+        "item_mr": "कोको पावडर",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Maida (all-purpose flour)",
+        "item_mr": "मैदा",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Baking powder",
+        "item_mr": "बेकिंग पावडर",
+        "quantity": "½",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Dark chocolate pieces (for centre)",
+        "item_mr": "डार्क चॉकलेटचे तुकडे (मध्यभागी)",
+        "quantity": "as needed",
+        "unit": ""
+      }
+    ],
+    "method_en": "Mix together milk, oil, vanilla essence, vinegar and sugar. Whisk well. Separately mix cocoa powder, maida, baking powder and salt. Add the dry ingredients to the wet mixture and mix gently — no lumps. Grease a baking pan. Pour half the batter in. Place pieces of dark chocolate in the centre. Pour the remaining batter on top and cover the chocolate. Bake in a preheated oven until done. The chocolate centre stays melted and flows out when cut.",
+    "method_mr": "दूध, तेल, व्हनिला एसन्स, व्हिनेगर आणि साखर एकत्र मिसळा. चांगले फेटा. वेगळे कोको पावडर, मैदा, बेकिंग पावडर आणि मीठ मिसळा. कोरडे घटक ओल्यात घाला आणि हळुवारपणे मिसळा — गुठळ्या नको. बेकिंग पॅन तेलाळा. अर्धे बॅटर घाला. मध्यभागी डार्क चॉकलेटचे तुकडे ठेवा. उरलेले बॅटर वरून घाला. गरम ओव्हनमध्ये शिजवा. चॉकलेटचा मध्य वितळलेला राहतो आणि कापताना वाहतो.",
+    "notes_en": "The vinegar reacts with baking powder to make the cake light and soft (eggless). Use good quality dark chocolate in the centre for best lava effect.",
+    "notes_mr": "व्हिनेगर बेकिंग पावडरशी प्रतिक्रिया देऊन केक हलका आणि मऊ बनवतो (अंड्याशिवाय). उत्तम लावा इफेक्टसाठी मध्यभागी चांगल्या दर्जाचे डार्क चॉकलेट वापरा.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "090",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.46.06 AM.jpeg"
+    ],
+    "title_en": "Stuffed Lauki (Bottle Gourd) with Soya Filling",
+    "title_mr": "भरलेली दुधी (सोया भरण)",
+    "category": "Curries & Gravies",
+    "serves": "3-4",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Lauki (bottle gourd)",
+        "item_mr": "दुधी",
+        "quantity": "1",
+        "unit": "medium"
+      },
+      {
+        "item_en": "Potato, boiled and mashed",
+        "item_mr": "उकडलेला आणि चुरलेला बटाटा",
+        "quantity": "2",
+        "unit": "medium"
+      },
+      {
+        "item_en": "Soya granules, soaked",
+        "item_mr": "भिजवलेले सोया ग्रॅन्युल्स",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Ghee (for tempering filling)",
+        "item_mr": "तूप (भरण परतण्यासाठी)",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Onion, chopped",
+        "item_mr": "कांदा, चिरलेला",
+        "quantity": "1",
+        "unit": "medium"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Coriander powder",
+        "item_mr": "धणे पावडर",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Turmeric",
+        "item_mr": "हळद",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Curd",
+        "item_mr": "दही",
+        "quantity": "1",
+        "unit": "bowl"
+      },
+      {
+        "item_en": "Cashew paste",
+        "item_mr": "काजू पेस्ट",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Brown onion paste",
+        "item_mr": "तळलेल्या कांद्याची पेस्ट",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Garlic chilli paste",
+        "item_mr": "लसूण मिरची पेस्ट",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Coriander paste",
+        "item_mr": "कोथिंबीर पेस्ट",
+        "quantity": "1",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Ghee (for kadhi tempering)",
+        "item_mr": "तूप (कढी फोडणीसाठी)",
+        "quantity": "1",
+        "unit": "tsp"
+      }
+    ],
+    "method_en": "Peel the lauki, cut into thick rounds and hollow out the centre of each piece (make a cup shape). For the filling: heat ghee and sauté chopped onion. Add mashed potato, soaked soya granules, salt, coriander powder and turmeric. Sauté nicely and keep aside. For the kadhi sauce: blend together curd, cashew paste, brown onion paste, garlic chilli paste and coriander paste. Mix it smooth with a little water. Heat ghee and add this curd mixture as a turmeric-seasoned sauce. Stuff each lauki cup with the potato-soya filling. Cook the stuffed lauki in the kadhi sauce on medium heat with a lid until the lauki is tender. Serve hot.",
+    "method_mr": "दुधी सोलून जाड गोल कापा आणि प्रत्येक तुकड्याचा आतील भाग खोदा (वाटी सारखा). भरणासाठी: तूप गरम करा आणि चिरलेला कांदा परतवा. चुरलेला बटाटा, भिजवलेले सोया ग्रॅन्युल्स, मीठ, धणे पावडर आणि हळद घाला. नीट परतवा आणि बाजूला ठेवा. कढीसाठी: दही, काजू पेस्ट, तळलेल्या कांद्याची पेस्ट, लसूण मिरची पेस्ट आणि कोथिंबीर पेस्ट एकत्र वाटा. थोड्या पाण्यासह गुळगुळीत करा. तूप गरम करा आणि हळद घालून हे दही मिश्रण घाला. प्रत्येक दुधीच्या तुकड्यात बटाटा-सोयाचे भरण भरा. भरलेली दुधी कढी सॉसमध्ये मध्यम आचेवर झाकण ठेवून दुधी मऊ होईपर्यंत शिजवा. गरम सर्व करा.",
+    "notes_en": "A creative and nutritious main course. The lauki absorbs the flavours of the rich kadhi sauce while cooking.",
+    "notes_mr": "एक सर्जनशील आणि पौष्टिक मुख्य जेवण. शिजवताना दुधी कढी सॉसचे स्वाद शोषून घेते.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
+  },
+  {
+    "id": "091",
+    "source_photos": [
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.46.47 AM.jpeg",
+      "photos_raw/WhatsApp Unknown 2026-03-30 at 8.45.46 PM/WhatsApp Image 2026-03-30 at 11.47.25 AM.jpeg"
+    ],
+    "title_en": "Potato Tikki / Cutlet (For Kids)",
+    "title_mr": "बटाटा टिक्की / कटलेट (मुलांसाठी)",
+    "category": "Snacks & Light Meals",
+    "serves": "4 (kids)",
+    "shobha_original": true,
+    "ingredients": [
+      {
+        "item_en": "Potato, boiled and mashed",
+        "item_mr": "उकडलेला आणि चुरलेला बटाटा",
+        "quantity": "½",
+        "unit": "kg"
+      },
+      {
+        "item_en": "Parsley (or coriander)",
+        "item_mr": "पार्स्ली (किंवा कोथिंबीर)",
+        "quantity": "2",
+        "unit": "tbsp"
+      },
+      {
+        "item_en": "Salt",
+        "item_mr": "मीठ",
+        "quantity": "to taste",
+        "unit": ""
+      },
+      {
+        "item_en": "Red chilli (mild)",
+        "item_mr": "लाल मिरची (सौम्य)",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Black pepper",
+        "item_mr": "काळी मिरी",
+        "quantity": "¼",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Corn starch",
+        "item_mr": "कॉर्न स्टार्च",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Basil",
+        "item_mr": "तुळस / बेसिल",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Egg",
+        "item_mr": "अंडे",
+        "quantity": "1",
+        "unit": ""
+      },
+      {
+        "item_en": "Salt (for egg wash)",
+        "item_mr": "मीठ (अंडी धुण्यासाठी)",
+        "quantity": "pinch",
+        "unit": ""
+      },
+      {
+        "item_en": "Bread crumbs",
+        "item_mr": "ब्रेड क्रम्ब्ज",
+        "quantity": "½",
+        "unit": "cup"
+      },
+      {
+        "item_en": "Parmesan cheese",
+        "item_mr": "परमेझान चीज",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "item_en": "Oil (for shallow frying)",
+        "item_mr": "तेल (तळण्यासाठी)",
+        "quantity": "as needed",
+        "unit": ""
+      }
+    ],
+    "method_en": "Boil and mash potatoes with a fork. Mix in parsley, salt, red chilli, black pepper, corn starch and basil. Mix well with fork and hands. Shape into rolls and press with a fork on top, then cut into round pieces like nankhatai biscuits. Set aside. In a bowl, beat egg with a pinch of salt until foamy. On a plate, mix bread crumbs with parmesan cheese. Dip each potato tikki piece into the egg wash, then coat well with the bread crumb and cheese mixture. Shallow fry on both sides until golden and crispy. Serve hot with ketchup.",
+    "method_mr": "बटाटे उकडून काट्याने चुरा. पार्स्ली, मीठ, लाल मिरची, काळी मिरी, कॉर्न स्टार्च आणि बेसिल मिसळा. काटा आणि हाताने नीट मिसळा. रोल आकार द्या, वरून काट्याने दाबा, मग नानखटाई बिस्किटाप्रमाणे गोल तुकडे करा. बाजूला ठेवा. एका भांड्यात अंडे मिठासह फेटा. एका प्लेटमध्ये ब्रेड क्रम्ब्ज आणि परमेझान चीज मिसळा. प्रत्येक टिक्की अंड्यात बुडवा, मग ब्रेड क्रम्ब मिश्रणात चांगले कोट करा. दोन्ही बाजूंनी सोनेरी आणि कुरकुरीत होईपर्यंत उथळ तळा. केचपसोबत गरम सर्व करा.",
+    "notes_en": "Labelled 'For Kids' by Shobha. Mild spicing with red chilli kept low. Parmesan cheese in the crumb coating is a special touch.",
+    "notes_mr": "शोभाने 'मुलांसाठी' असे लिहिलेले. लाल मिरची कमी ठेवून सौम्य मसाला. ब्रेड क्रम्बमधील परमेझान चीज एक विशेष स्पर्श आहे.",
+    "story_en": "[STORY: add family memory here]",
+    "story_mr": "[कथा: येथे कौटुंबिक आठवण जोडा]"
   }
 ];
